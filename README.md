@@ -1,0 +1,3 @@
+# Survey-Web-Portal
+
+"Designing and developing a survey web portal to gather valuable insights from a wide range of users. The portal will provide a platform for businesses, organizations, and individuals to conduct surveys and collect data from their target audience. Utilizing [insert technology stack you're using], the portal will offer a customizable and user-friendly interface, as well as robust security features to protect sensitive data. The goal of the survey web portal is to provide an effective and efficient way to gather insights, drive decision-making, and make data-driven improvements
